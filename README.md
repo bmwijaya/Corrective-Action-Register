@@ -36,7 +36,7 @@ Password:	password
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within this application, please send a message to[Benny Margawijaya](https://www.linkedin.com/in/bennymargawijaya/). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this application, please send a message to [Benny Margawijaya](https://www.linkedin.com/in/bennymargawijaya/). All security vulnerabilities will be promptly addressed.
 
 ## License
 
