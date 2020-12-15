@@ -1,6 +1,6 @@
 ## Corrective Action Register
 
-The Safety Corrective and Preventive Action Register application was developed using Laravel framework. This application purpose are:
+The Safety Corrective and Preventive Action Register application was developed using Laravel framework. This application purposes are:
 1. Record a Safety Inspection recommendation
 2. Record and monitor a Risk Management action
 3. Record and monitor an incident investigation recommendation
